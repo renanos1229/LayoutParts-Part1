@@ -1,2 +1,106 @@
 @charset "UTF-8";
+
 /* 回答はここから */
+
+.q1--horizontality {
+    width: 200px;
+    margin: 0 auto 20px;
+    padding: 20px;
+    background-color: #a4e4f1;
+}
+
+.q1--horizontality p {
+    display: inline-block;
+    text-align: center;
+    background-color: #a4b3e9;
+    padding: 10px 10px;
+}
+
+.align-box {
+    background-color: #fff;
+    width: 200px;
+    display: inline-block;
+    padding: 20px 0px;
+    font-size: 16px;
+
+}
+
+.text-box {
+    text-align: center;
+}
+
+.margin-text {
+    margin: 0 auto;
+    width: 90px;
+    padding: 0px;
+    background: #a4b3e9;
+    text-align: center;
+}
+
+q2
+
+.q1--perimeter {
+  width: 250px;
+  height: 150px;
+  margin: 0 auto 20px;
+  background-color: #a4e4f1;
+}
+.d--table{
+  display: table;
+}
+.table{
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+
+}
+
+.table p{
+  background-color: #fff;
+  padding: 10px;
+  display: inline-block;
+}
+
+.d--flex{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.flex p{
+  background-color: #fff;
+  padding: 10px;
+  display: inline-block;
+}
+
+.q1--position {
+  width: 250px;
+  margin: 0 auto;
+  padding: 20px 20px;
+  background-color: #a4e4f1;
+}
+
+.container {
+  display: inline-block;
+  width: 250px;
+  height: 150px;
+  margin: 0 auto;
+  background-color: #FFF;
+  font-size: 16px;
+  vertical-align: top;
+}
+
+.d--flex{
+  position: relative;
+}
+
+.container p{
+  display: inline-block;
+  text-align: center;
+  background-color: #a4b3e9;
+  padding: 10px 10px;
+  position:absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}

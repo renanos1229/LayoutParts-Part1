@@ -1,1 +1,63 @@
 @charset "UTF-8";
+
+.sub--area1{
+  width: 100%;
+  display: table;
+}
+
+.red{
+  width: 300px;
+  background-color: #ff7b7b;
+  display: table-cell;
+  padding: 20px;
+  text-align: center;
+}
+.blue{
+  background-color: #7b86ff;
+  display: table-cell;
+  padding: 20px;
+  text-align: center;
+}
+.yellow{
+  width: 300px;
+  background-color: #fff27b;
+  display: table-cell;
+  padding: 20px;
+  text-align: center;
+}
+
+.sub--area2{
+  width: 100%;
+  display: table;
+  margin-top: 50px;
+}
+
+.green{
+  background-color: #7bff91;
+  display: table-cell;
+  padding: 20px;
+  text-align: center;
+}
+
+.pink{
+  width: 400px;
+  background-color: #ff7be2;
+  display: table-cell;
+  padding: 20px;
+  text-align: center;
+}
+
+.orange{
+  width: 400px;
+  background-color: #ffc67b;
+  display: table-cell;
+  padding: 20px;
+  text-align: center;
+}
+
+.light-blue{
+  background-color: #7bf2ff;
+  display: table-cell;
+  padding: 20px;
+  text-align: center;
+}
