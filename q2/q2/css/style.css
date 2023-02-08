@@ -7,7 +7,7 @@
 
 }
 
-.list1{
+.list{
   width: 200px;
   padding: 10px;
   background-color: #d2b48c;
@@ -15,26 +15,4 @@
   box-shadow:0 0 0 6px #655 ;
   outline: 10px solid #655;
   margin: 30px;
-}
-
-.list2{
-  width: 200px;
-  padding: 10px;
-  background-color: #d2b48c;
-  border-radius: 13px;
-  box-shadow:0 0 0 6px #655 ;
-  outline: 10px solid #655;
-  margin:30px;
-
-}
-
-.list3{
-  width: 200px;
-  padding: 10px;
-  background-color: #d2b48c;
-  border-radius: 13px;
-  box-shadow:0 0 0 6px #655 ;
-  outline: 10px solid #655;
-  margin: 30px;
-
 }
