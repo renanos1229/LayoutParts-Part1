@@ -4,7 +4,7 @@
 .card-list{
   display: flex;
   justify-content: center;
-
+  margin-top: 60px;
 }
 
 
@@ -15,16 +15,9 @@
   border-radius: 13px;
   box-shadow:0 0 0 6px #655 ;
   outline: 10px solid #655;
-  margin-top: 30px;
+  margin-right: 60px;
 }
 
-.list:nth-child(1){
-margin-right: 30px;
-}
-.list:nth-child(2){
-margin-left: 30px;
-margin-right: 30px;
-}
-.list:nth-child(3){
-margin-left: 30px;
+.list:last-child{
+margin-right: 0px;
 }
